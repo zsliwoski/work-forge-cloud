@@ -2,6 +2,8 @@
 
 This repository is a cloud-based component of the larger Work-Forge project. It integrates seamlessly with other repositories in the Work-Forge ecosystem to provide scalable and efficient cloud functionality. Additionally, it includes a **Sprint Checkpointing** feature to help teams track progress and milestones effectively.
 
+[Frontend Repository](https://github.com/zsliwoski/work-forge-cloud)
+
 ## Features ✨
 
 - **Serverless Architecture**: Built using serverless functions for efficient and cost-effective execution.
