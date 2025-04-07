@@ -1,0 +1,5 @@
+.env
+.terraform*
+src-*
+terraform.tfstate*
+__pycache__
