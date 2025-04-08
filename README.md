@@ -24,12 +24,14 @@ This repository is a cloud-based component of the larger Work-Forge project. It 
 
 ### Prerequisites ✅
 
-- Python 3.x
-- Terraform
-- Google Cloud SDK
+- [Python 3.x](https://docs.python.org/3/using/index.html)
+- [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+- [Google Cloud SDK](https://cloud.google.com/sdk/docs/install-sdk)
 - PostgreSQL database
 
 ### Setup ⚙️
+
+It is crucial that you set up the [Frontend](https://github.com/zsliwoski/work-forge) first, as that will generate a Postgres DB locally for you.
 
 1. Clone the repository:
      ```bash
